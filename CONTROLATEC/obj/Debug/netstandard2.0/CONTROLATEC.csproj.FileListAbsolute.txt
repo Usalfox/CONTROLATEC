@@ -1,0 +1,15 @@
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\bin\Debug\netstandard2.0\CONTROLATEC.deps.json
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\bin\Debug\netstandard2.0\CONTROLATEC.dll
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\bin\Debug\netstandard2.0\ref\CONTROLATEC.dll
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\bin\Debug\netstandard2.0\CONTROLATEC.pdb
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.csproj.AssemblyReference.cache
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.AssemblyInfoInputs.cache
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.AssemblyInfo.cs
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.csproj.CoreCompileInputs.cache
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.dll
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\ref\CONTROLATEC.dll
+C:\Users\BRISTIAN\source\repos\CONTROLATEC\CONTROLATEC\obj\Debug\netstandard2.0\CONTROLATEC.pdb
